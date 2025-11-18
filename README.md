@@ -82,4 +82,5 @@ print(result)
 
 ### Model Performance: ROC and Precision-Recall Curves
 
-The following curves demonstrate the strong performance of the m6A prediction model. The ROC curve illustrates the trade-off between sensitivity and specificity, while the Precision-Recall curve highlights precision across different recall levels. ![Figure 1: ROC curve of the m6A prediction model (AUC = 0.8854). A higher AUC indicates superior ability to distinguish between positive and negative samples.](%22C:/Users/12295/Documents/Practical7/m6APrediction/ROC_PRC.png%22)
+The following curves demonstrate the strong performance of the m6A prediction model. The ROC curve illustrates the trade-off between sensitivity and specificity, while the Precision-Recall curve highlights precision across different recall levels. 
+![Left: ROC Curve (evaluates trade-off between sensitivity and specificity for 2273 positive and 7338 negative samples). Right: Precision-Recall Curve (shows precision across recall levels for the same dataset).](ROC_PRC.png)
